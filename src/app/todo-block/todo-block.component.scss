@@ -1,0 +1,19 @@
+
+
+.title-line {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 1rem;
+}
+
+.underline {
+    height: 2px;
+    width: 50%;
+    background: black;
+}
+
+.check-item {
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+}
